@@ -1,0 +1,2 @@
+# Navigationdrawer-and-Fragments
+The NavigationDrawer and Fragments repository includes a navigation drawer that becomes visible when the toggle icon is clicked. This navigation drawer contains icons for home, settings, share, and about. When each icon is selected in the order of home, settings, share, and about, the corresponding fragments for each section are displayed. Please refer to the screenshots below.
